@@ -1,0 +1,6 @@
+// 处理文本内容多出的省略
+@mixin ellipsis {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
