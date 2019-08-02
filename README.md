@@ -1,6 +1,6 @@
 # go-where
 
-> A Vue.js project
+> 一个模仿去哪儿旅行的web应用
 
 ## Build Setup
 
