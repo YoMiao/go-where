@@ -5,10 +5,10 @@
 
 ## 记录
 
-用 vue-awesome-swiper 和  better-scroll 组件
-用 fastclick 库解决物理点击和 click 在移动浏览器上触发事件之间300毫秒的延迟。
-每个页面都在入口index的时候通过ajax一次性获取数据，再通过props传入组件，这样可以减少ajax请求。
-由于better-scroll组件会默认禁止click事件，在移动端会产生bug，所以要加上click:true配置参数。
+用 vue-awesome-swiper 和  better-scroll 组件  
+用 fastclick 库解决物理点击和 click 在移动浏览器上触发事件之间300毫秒的延迟。  
+每个页面都在入口index的时候通过ajax一次性获取数据，再通过props传入组件，这样可以减少ajax请求。  
+由于better-scroll组件会默认禁止click事件，在移动端会产生bug，所以要加上click:true配置参数。  
 
 ## 演示
 
